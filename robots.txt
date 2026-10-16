@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://personal-website-mu-sepia-38.vercel.app/sitemap.xml
